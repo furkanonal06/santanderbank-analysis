@@ -115,12 +115,6 @@ Based on K-Means clustering, **seven distinct customer segments** were identifie
    - Analyze which products contribute to higher customer stickiness and restructure the portfolio to encourage long-term commitment.
    - Provide family or bundled financial plans to increase multi-account relationships within the same household.
 
-### Next Steps:
-
-- **Enhance customer segmentation** with hierarchical clustering for deeper insights.
-- **Optimize churn prediction models** by fine-tuning hyperparameters.
-- **Develop a dashboard** to visualize churn trends and real-time customer analytics.
-
 ## Tools & Technologies
 - **Data Processing & Analysis:** pandas, numpy
 - **Data Visualization:** seaborn, matplotlib
